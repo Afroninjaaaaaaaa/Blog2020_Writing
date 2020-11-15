@@ -1,8 +1,10 @@
-baseURL = "https://example.com"
+baseURL = "https://github.com/Afroninjaaaaaaaa/Afroninjaaaaaaaa.github.io.git"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Hugo Hermit"
 theme = "hermit"
+publishDir = "public"
+
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true

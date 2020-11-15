@@ -1,7 +1,8 @@
-baseURL = "https://example.org/"
+baseURL = "https://github.com/Afroninjaaaaaaaa/Afroninjaaaaaaaa.github.io.git"
 languageCode = "fr"
 title = "De Toi et de Rien"
 theme = "hermit"
+publishDir = "public"
 
 # enableGitInfo = true
 pygmentsCodefences  = true
